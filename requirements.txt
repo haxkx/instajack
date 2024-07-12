@@ -1,4 +1,2 @@
-rich
-requests
-uuid
-user_agent
+telebot
+getuseragent
